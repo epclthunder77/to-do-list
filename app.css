@@ -1,0 +1,54 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    font-family: 'Arial';
+    padding-left: 70px;
+    font-size: 100px;
+    color: rgb(14, 120, 213);
+}
+
+form {
+    padding-left: 50px;
+}
+
+li {
+    padding-left: 5px;
+    font-family: 'monospace';
+    font-size: 50px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.strike {
+    text-decoration: line-through;
+}
+
+button {
+    margin-left: 10px;
+    font-size: 50px;
+}
+
+input
+{
+    font-size: 50px;
+}
+
+
+.paddingleft
+{
+  float: left;
+  
+}
+
+.paddingright
+{
+  float: right;
+}
+
+
+
+/* WIdth and height to control checkbox size */
